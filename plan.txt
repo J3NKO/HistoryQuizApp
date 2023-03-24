@@ -1,0 +1,22 @@
+basic creative ideas:
+
+1) Triva game
+2) 10 questions
+3) User chooses the difficulty
+4) User chooses their catergory 
+5) Multiple choice questions
+6) User will enter their name 
+7) keep track of score 
+8) conclusion pop up at the end of quiz
+9) loop to continue playing game after finished 
+
+UI ideas:
+
+1) Input text box for username
+2) Buttons for answers 
+3) Triva Music
+4) Trivia background
+5) Score board
+6) conclusion pop with message
+
+
