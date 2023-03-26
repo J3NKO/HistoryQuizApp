@@ -9,3 +9,4 @@ to do:
 * Also a customizable prompt when a answer is clicked.
 * possible scoring system
 * check the answer to qeustion logic
+* add token to stop duplicates if applicable
