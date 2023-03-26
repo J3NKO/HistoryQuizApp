@@ -6,3 +6,5 @@ to do:
 
 * add pop up when all 50 questions have been completed.
 * Code needs to be refactored and commented for readibility
+* Also a customizable prompt when a answer is clicked.
+* possible scoring system
