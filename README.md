@@ -8,3 +8,4 @@ to do:
 * Code needs to be refactored and commented for readibility
 * Also a customizable prompt when a answer is clicked.
 * possible scoring system
+* check the answer to qeustion logic
