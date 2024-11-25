@@ -1,5 +1,6 @@
 # HistoryQuizApp
 
+Working with free api!
 now works with 50 different questions and has a random answer generator with logic to cater for certain scenarios.
 
 to do:
